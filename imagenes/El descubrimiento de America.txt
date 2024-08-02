@@ -1,0 +1,86 @@
+    <h2>El descubrimiento de América</h2>
+    
+<p> <strong>Descubrimiento de América</strong> es la denominación que recibe el acontecimiento <br>
+     acaecido el 12 de octubre de 1492, consistente en la llegada a América de una expedición <br>
+     española dirigida por Cristóbal Colón por mandato de los Reyes Católicos, Isabel de Castilla <br>
+      y Fernando de Aragón. <br>Colón había partido del Puerto de Palos (España) dos meses y <br>
+      nueve días antes y, tras cruzar el océano Atlántico, llegó a una isla del continente <br>
+      americano, Guanahani, creyendo que había llegado a la India. Este hecho es uno de los <br>
+      momentos fundamentales de la historia universal y representa un “descubrimiento” <br>
+      de riquezas, buena tierra, condiciones climáticas favorables al europeo y de una <br>
+      población con una cosmología de relaciones de poder muy distintas; así como un mal <br>
+      llamado "encuentro de dos mundos" que habían evolucionado independientemente desde <br>
+      el poblamiento de América</p> <br><br>
+
+      <h4>Primer viaje de Colón</h4>
+
+      <p>En su primer viaje (1492-1493) Colón llegó a varias islas del Caribe: Guanahaní <br>
+      (a la que bautizaron como San Salvador), Cuba (Juana) y Santo Domingo (La Española). <br>
+      En La Española chocó su mejor barco, la “Santa María”, y con su madera se construyó un <br>
+       fortín llamado “La Navidad”. Colón regresó a España en la carabela “La Niña”. <br><br>
+        Los Reyes Católicos, particularmente la reina Isabel I de Castilla, decidieron financiar <br>
+      a Cristóbal Colón en su proyecto de llegar a Asia por el oeste, atravesando la mar océana. <br>
+       El 17 de abril de 1492, Colón firmó con los reyes las Capitulaciones de Santa Fe, documentos <br>
+        por los cuales se autorizó, sin financiar, la expedición de Cristóbal Colón a las Indias por <br>
+      el mar hacia occidente. Además se le concedieron a Colón una serie de prebendas y títulos, <br>
+      entre ellos: Almirante, Gobernador, Virrey y el 10 % de las riquezas. <br>
+          También se firmaron varias provisiones y cédulas para que ayudasen a Colón en aquellas <br>
+       villas y puertos de mar a las que se dirigía. Una provisión fue dirigida a la villa de Palos de <br>
+        la Frontera por una sanción impuesta a algunos de los vecinos de esta villa. <br>
+        En La Española chocó su mejor barco, la “Santa María”, y con su madera se construyó un <br>
+       fortín llamado “La Navidad”. Colón regresó a España en la carabela “La Niña”. <br><br>
+        Los Reyes Católicos, particularmente la reina Isabel I de Castilla, decidieron financiar <br>
+      a Cristóbal Colón en su proyecto de llegar a Asia por el oeste, atravesando la mar océana. <br>
+       El 17 de abril de 1492, Colón firmó con los reyes las Capitulaciones de Santa Fe, documentos <br>
+        por los cuales se autorizó, sin financiar, la expedición de Cristóbal Colón a las Indias por <br>
+      el mar hacia occidente. Además se le concedieron a Colón una serie de prebendas y títulos, <br>
+      entre ellos: Almirante, Gobernador, Virrey y el 10 % de las riquezas. <br><br>
+      
+      <h4>Segundo viaje de Colón</h4>
+
+      <p>En su primer viaje (1492-1493) Colón llegó a varias islas del Caribe: Guanahaní <br>
+        (a la que bautizaron como San Salvador), Cuba (Juana) y Santo Domingo (La Española). <br>
+        En La Española chocó su mejor barco, la “Santa María”, y con su madera se construyó un <br>
+         fortín llamado “La Navidad”. Colón regresó a España en la carabela “La Niña”. <br><br>
+          Los Reyes Católicos, particularmente la reina Isabel I de Castilla, decidieron financiar <br>
+        a Cristóbal Colón en su proyecto de llegar a Asia por el oeste, atravesando la mar océana. <br>
+         El 17 de abril de 1492, Colón firmó con los reyes las Capitulaciones de Santa Fe, documentos <br>
+          por los cuales se autorizó, sin financiar, la expedición de Cristóbal Colón a las Indias por <br>
+        el mar hacia occidente. Además se le concedieron a Colón una serie de prebendas y títulos, <br>
+        entre ellos: Almirante, Gobernador, Virrey y el 10 % de las riquezas. <br>
+            También se firmaron varias provisiones y cédulas para que ayudasen a Colón en aquellas <br>
+         villas y puertos de mar a las que se dirigía. Una provisión fue dirigida a la villa de Palos de <br>
+          la Frontera por una sanción impuesta a algunos de los vecinos de esta villa. <br>
+          En La Española chocó su mejor barco, la “Santa María”, y con su madera se construyó un <br>
+         fortín llamado “La Navidad”. Colón regresó a España en la carabela “La Niña”. <br><br>
+          Los Reyes Católicos, particularmente la reina Isabel I de Castilla, decidieron financiar <br>
+        a Cristóbal Colón en su proyecto de llegar a Asia por el oeste, atravesando la mar océana. <br>
+         El 17 de abril de 1492, Colón firmó con los reyes las Capitulaciones de Santa Fe, documentos <br>
+          por los cuales se autorizó, sin financiar, la expedición de Cristóbal Colón a las Indias por <br>
+        el mar hacia occidente. Además se le concedieron a Colón una serie de prebendas y títulos, <br>
+        entre ellos: Almirante, Gobernador, Virrey y el 10 % de las riquezas. <br><br>
+
+        <h4>Tercer viaje de Colón</h4>
+
+        
+      <p>En su primer viaje (1492-1493) Colón llegó a varias islas del Caribe: Guanahaní <br>
+        (a la que bautizaron como San Salvador), Cuba (Juana) y Santo Domingo (La Española). <br>
+        En La Española chocó su mejor barco, la “Santa María”, y con su madera se construyó un <br>
+         fortín llamado “La Navidad”. Colón regresó a España en la carabela “La Niña”. <br><br>
+          Los Reyes Católicos, particularmente la reina Isabel I de Castilla, decidieron financiar <br>
+        a Cristóbal Colón en su proyecto de llegar a Asia por el oeste, atravesando la mar océana. <br>
+         El 17 de abril de 1492, Colón firmó con los reyes las Capitulaciones de Santa Fe, documentos <br>
+          por los cuales se autorizó, sin financiar, la expedición de Cristóbal Colón a las Indias por <br>
+        el mar hacia occidente. Además se le concedieron a Colón una serie de prebendas y títulos, <br>
+        entre ellos: Almirante, Gobernador, Virrey y el 10 % de las riquezas. <br>
+            También se firmaron varias provisiones y cédulas para que ayudasen a Colón en aquellas <br>
+         villas y puertos de mar a las que se dirigía. Una provisión fue dirigida a la villa de Palos de <br>
+          la Frontera por una sanción impuesta a algunos de los vecinos de esta villa. <br>
+          En La Española chocó su mejor barco, la “Santa María”, y con su madera se construyó un <br>
+         fortín llamado “La Navidad”. Colón regresó a España en la carabela “La Niña”. <br><br>
+          Los Reyes Católicos, particularmente la reina Isabel I de Castilla, decidieron financiar <br>
+        a Cristóbal Colón en su proyecto de llegar a Asia por el oeste, atravesando la mar océana. <br>
+         El 17 de abril de 1492, Colón firmó con los reyes las Capitulaciones de Santa Fe, documentos <br>
+          por los cuales se autorizó, sin financiar, la expedición de Cristóbal Colón a las Indias por <br>
+        el mar hacia occidente. Además se le concedieron a Colón una serie de prebendas y títulos, <br>
+        entre ellos: Almirante, Gobernador, Virrey y el 10 % de las riquezas. <br>
